@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Sebastian Fernandez</h1>
 <h3 align="center">A passionate programmer from Spain</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasfdezb&label=Profile%20views&color=0e75b6&style=flat" alt="sebasfdezb" /> </p>
 
