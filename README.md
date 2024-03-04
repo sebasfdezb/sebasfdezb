@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasfdezb&label=Profile%20views&color=0e75b6&style=flat" alt="sebasfdezb" /> </p>
 
-- 🌱 I’m currently learning **C in 42, JavaScript, Burpsuite**
+- 🌱 I’m currently learning **C in 42, JavaScript, Burp Suite**
 
 - 💬 Ask me about **C, Photoshop**
 
