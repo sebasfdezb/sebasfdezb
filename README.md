@@ -65,4 +65,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasfdezb&show_icons=true&locale=en&layout=compact" alt="sebasfdezb" /></p>
+![Sebferna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebasfdezb&count_private=true&show_icons=true&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasfdezb&layout=compact&theme=noctis_minimus)
